@@ -6,14 +6,15 @@ import {
 } from "@aws-sdk/client-transcribe";
 import fs from "fs";
 import fetch from "node-fetch";
+
 // ================= CONFIG =================
-const REGION = "<BUCKET_REGION>"; // your bucket region
-const BUCKET = "<BUCKET_NAME>"; // your bucket name
+const REGION = "<AWS_REGION>"; // your bucket region
+const BUCKET = "<AWS_BUCKET_NAME>"; // your bucket name
 const FILE_PATH = "video.mp4"; // local file
 const FILE_KEY = "video.mp4"; // S3 file name
 
-const ACCESS_KEY = "<YOUR_API_ACCESS_KEY>";
-const SECRET_KEY = "<YOUR_API_SECRET_KEY>";
+const ACCESS_KEY = "<ACCESS_KEY>";
+const SECRET_KEY = "<SECRET_KEY>";
 // ==========================================
 
 const s3 = new S3Client({

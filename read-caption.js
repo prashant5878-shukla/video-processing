@@ -11,10 +11,10 @@ ffmpeg.setFfmpegPath(ffmpegPath);
 const VIDEO_INPUT = "video.mp4";
 const TRANSCRIPT_FILE = "transcript.json";
 const OUTPUT_VIDEO = "captioned.mp4";
-const REGION = "<BUCKET_REGION>"; // your bucket region
+const REGION = "<AWS_REGION>"; // your bucket region
 
-const ACCESS_KEY = "<YOUR_API_ACCESS_KEY>";
-const SECRET_KEY = "<YOUR_API_SECRET_KEY>";
+const ACCESS_KEY = "<ACESS_KEY>";
+const SECRET_KEY = "<SECRET_KEY>";
 
 const translate = new TranslateClient({
   region: REGION,
