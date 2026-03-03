@@ -1,4 +1,3 @@
-We can do 2 things
-
-1. Add english caption to japnese video
-2. Make japnese video in to english dubbed with some robotic voice
+- Add english caption to any video 
+- Make any video in to english dubbed with some robotic voice
+- Download video from social media 
