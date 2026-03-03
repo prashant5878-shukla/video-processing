@@ -12,10 +12,10 @@ ffmpeg.setFfmpegPath(ffmpegPath);
 const VIDEO_INPUT = "video.mp4";
 const TRANSCRIPT_FILE = "transcript.json";
 const OUTPUT_VIDEO = "dubbed.mp4";
-const REGION = "<AWS_REGION>";
+const REGION = "ap-southeast-1";
 
-const ACCESS_KEY = "<ACCESS_KEY>";
-const SECRET_KEY = "<SECRET_KEY>";
+const ACCESS_KEY = "<AWS_KEY>";
+const SECRET_KEY = "<AWS_SECRET_KEY>";
 
 const translate = new TranslateClient({
   region: REGION,
@@ -66,7 +66,7 @@ async function generateDub() {
       new SynthesizeSpeechCommand({
         Text: englishText,
         OutputFormat: "mp3",
-        VoiceId: "Joanna", // English voice
+        VoiceId: "Matthew", // English voice
         Engine: "neural",
       }),
     );

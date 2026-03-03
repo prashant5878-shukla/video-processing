@@ -1,11 +1,34 @@
 {
-  "jobName": "job-1772428003446",
+  "jobName": "job-1772517628218",
   "accountId": "464624688505",
   "status": "COMPLETED",
   "results": {
+    "language_code": "zh-CN",
+    "language_identification": [
+      {
+        "code": "zh-CN",
+        "score": "0.7899"
+      },
+      {
+        "code": "zh-TW",
+        "score": "0.1898"
+      },
+      {
+        "code": "ko-KR",
+        "score": "0.0175"
+      },
+      {
+        "code": "it-IT",
+        "score": "0.0025"
+      },
+      {
+        "code": "ja-JP",
+        "score": "0.0003"
+      }
+    ],
     "transcripts": [
       {
-        "transcript": "最近寒いね。うん、めちゃくちゃ寒いね。寒くなるとこたつに入りたくなるよね。こたつ?うん。こたつは布団が付いたテーブルのことだよ。へえ、そうなんだ。下にヒーターが付いてるから、とってもあったかいの。えー、すごいね。私のおばあちゃんの家にあるから、今度試してみる。いいの?試してみたい。うわあ、すっごい気持ちいい。でしょう。はい、これ食べて。え、みかん?うん。こたつと言ったら、やっぱりみかんでしょ。こたつ。こたつ、みかん。みかん、"
+        "transcript": "唉,傅姑娘,别介意啊,少爷身子不好,婚事不宜太过招摇。嗯哎呦,你家富儿姑娘若许配,顶多是小四叔叔,俺家可是城中数一数二的富裕啊,要不是这八字对上了,哪能看上你家富姑娘。可是我听说安少爷哎呦安少爷身子是差了点实话跟你说了吧,这一会儿安家急着给安少爷娶亲其实是想冲冲喜万一这安少爷去了,富儿姑娘也是衣食无忧的呀若因缘富儿过得不好,我便是害了他哎,你这做姑娘哎呦,傅姑娘,这可是一门好心事啊,富尔,慎重。陆姑娘,我愿意的。婚事那么清了也就罢了,您知道男少爷是个药罐子,你还眼巴巴的嫁过去做什么?若不是时,则会知道我一心想要寻找的那个人。是否也在等我。说了你的名字很好听,想来应该是人如其名吧。安少年你若疑惑我的模样,不是应该掀了红盖头瞧瞧,说是长得外瓜里枣,赶紧将我退回娘家去。对不起,我可能没有办法看到了。等我和眼中东方新春留下的我听到你就晚上呢?然后网路上的像花现在等等节目我们呢"
       }
     ],
     "items": [
@@ -14,132 +37,126 @@
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "最近"
+            "confidence": "0.636",
+            "content": "唉"
           }
         ],
-        "start_time": "0.509",
-        "end_time": "1.19"
+        "start_time": "74.0",
+        "end_time": "74.41"
       },
       {
         "id": 1,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.997",
-            "content": "寒い"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "1.2",
-        "end_time": "1.779"
+        ]
       },
       {
         "id": 2,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.889",
-            "content": "ね。"
+            "confidence": "0.352",
+            "content": "傅"
           }
         ],
-        "start_time": "1.779",
-        "end_time": "2.16"
+        "start_time": "74.65",
+        "end_time": "74.91"
       },
       {
         "id": 3,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.649",
-            "content": "うん、"
+            "confidence": "0.895",
+            "content": "姑娘"
           }
         ],
-        "start_time": "2.779",
-        "end_time": "3.319"
+        "start_time": "74.91",
+        "end_time": "75.47"
       },
       {
         "id": 4,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.728",
-            "content": "めちゃくちゃ"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "3.569",
-        "end_time": "4.449"
+        ]
       },
       {
         "id": 5,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.995",
-            "content": "寒い"
+            "confidence": "0.949",
+            "content": "别"
           }
         ],
-        "start_time": "4.449",
-        "end_time": "4.929"
+        "start_time": "75.569",
+        "end_time": "75.83"
       },
       {
         "id": 6,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.921",
-            "content": "ね。"
+            "confidence": "0.987",
+            "content": "介意"
           }
         ],
-        "start_time": "4.929",
-        "end_time": "5.32"
+        "start_time": "75.83",
+        "end_time": "76.419"
       },
       {
         "id": 7,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.995",
-            "content": "寒く"
+            "confidence": "0.885",
+            "content": "啊"
           }
         ],
-        "start_time": "5.769",
-        "end_time": "6.289"
+        "start_time": "76.419",
+        "end_time": "76.65"
       },
       {
         "id": 8,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "なる"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "6.289",
-        "end_time": "6.639"
+        ]
       },
       {
         "id": 9,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "と"
+            "confidence": "0.993",
+            "content": "少爷"
           }
         ],
-        "start_time": "6.639",
-        "end_time": "6.88"
+        "start_time": "77.489",
+        "end_time": "77.889"
       },
       {
         "id": 10,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.809",
-            "content": "こたつ"
+            "confidence": "0.991",
+            "content": "身子"
           }
         ],
-        "start_time": "6.88",
-        "end_time": "7.4"
+        "start_time": "77.889",
+        "end_time": "78.489"
       },
       {
         "id": 11,
@@ -147,633 +164,623 @@
         "alternatives": [
           {
             "confidence": "0.999",
-            "content": "に"
+            "content": "不好"
           }
         ],
-        "start_time": "7.4",
-        "end_time": "7.559"
+        "start_time": "78.489",
+        "end_time": "78.709"
       },
       {
         "id": 12,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.991",
-            "content": "入り"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "7.559",
-        "end_time": "7.92"
+        ]
       },
       {
         "id": 13,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.998",
-            "content": "たく"
+            "confidence": "0.852",
+            "content": "婚事"
           }
         ],
-        "start_time": "7.92",
-        "end_time": "8.199"
+        "start_time": "78.94",
+        "end_time": "79.43"
       },
       {
         "id": 14,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "なる"
+            "confidence": "0.675",
+            "content": "不宜"
           }
         ],
-        "start_time": "8.199",
-        "end_time": "8.569"
+        "start_time": "79.43",
+        "end_time": "79.8"
       },
       {
         "id": 15,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.998",
-            "content": "よ"
+            "confidence": "0.982",
+            "content": "太过"
           }
         ],
-        "start_time": "8.569",
-        "end_time": "8.71"
+        "start_time": "79.8",
+        "end_time": "80.209"
       },
       {
         "id": 16,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.898",
-            "content": "ね。"
+            "confidence": "0.704",
+            "content": "招摇。"
           }
         ],
-        "start_time": "8.71",
-        "end_time": "9.319"
+        "start_time": "80.209",
+        "end_time": "80.919"
       },
       {
         "id": 17,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.837",
-            "content": "こたつ"
+            "confidence": "0.839",
+            "content": "嗯"
           }
         ],
-        "start_time": "10.09",
-        "end_time": "10.689"
+        "start_time": "85.379",
+        "end_time": "85.54"
       },
       {
         "id": 18,
-        "type": "punctuation",
+        "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.0",
-            "content": "?"
+            "confidence": "0.778",
+            "content": "哎"
           }
-        ]
+        ],
+        "start_time": "91.319",
+        "end_time": "91.68"
       },
       {
         "id": 19,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.61",
-            "content": "うん。"
+            "confidence": "0.49",
+            "content": "呦"
           }
         ],
-        "start_time": "11.699",
-        "end_time": "12.22"
+        "start_time": "91.68",
+        "end_time": "92.08"
       },
       {
         "id": 20,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.896",
-            "content": "こたつ"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "12.529",
-        "end_time": "13.02"
+        ]
       },
       {
         "id": 21,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "は"
+            "confidence": "0.981",
+            "content": "你家"
           }
         ],
-        "start_time": "13.02",
-        "end_time": "13.6"
+        "start_time": "92.319",
+        "end_time": "92.72"
       },
       {
         "id": 22,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.991",
-            "content": "布団"
+            "confidence": "0.914",
+            "content": "富儿"
           }
         ],
-        "start_time": "13.6",
-        "end_time": "13.97"
+        "start_time": "92.72",
+        "end_time": "93.069"
       },
       {
         "id": 23,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "が"
+            "confidence": "0.99",
+            "content": "姑娘"
           }
         ],
-        "start_time": "13.97",
-        "end_time": "14.279"
+        "start_time": "93.069",
+        "end_time": "93.44"
       },
       {
         "id": 24,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.157",
-            "content": "付い"
+            "confidence": "0.929",
+            "content": "若"
           }
         ],
-        "start_time": "14.279",
-        "end_time": "14.609"
+        "start_time": "93.44",
+        "end_time": "93.69"
       },
       {
         "id": 25,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "た"
+            "confidence": "0.669",
+            "content": "许配"
           }
         ],
-        "start_time": "14.609",
-        "end_time": "14.989"
+        "start_time": "93.69",
+        "end_time": "94.12"
       },
       {
         "id": 26,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.996",
-            "content": "テーブル"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "14.989",
-        "end_time": "15.649"
+        ]
       },
       {
         "id": 27,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "の"
+            "confidence": "0.41",
+            "content": "顶多"
           }
         ],
-        "start_time": "15.649",
-        "end_time": "15.85"
+        "start_time": "94.44",
+        "end_time": "95.11"
       },
       {
         "id": 28,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.943",
-            "content": "こと"
+            "confidence": "0.971",
+            "content": "是"
           }
         ],
-        "start_time": "15.85",
-        "end_time": "16.129"
+        "start_time": "95.11",
+        "end_time": "95.279"
       },
       {
         "id": 29,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "だ"
+            "confidence": "0.995",
+            "content": "小"
           }
         ],
-        "start_time": "16.129",
-        "end_time": "16.34"
+        "start_time": "95.279",
+        "end_time": "95.519"
       },
       {
         "id": 30,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.927",
-            "content": "よ。"
+            "confidence": "0.717",
+            "content": "四"
           }
         ],
-        "start_time": "16.34",
-        "end_time": "16.7"
+        "start_time": "95.519",
+        "end_time": "95.65"
       },
       {
         "id": 31,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.48",
-            "content": "へえ、"
+            "confidence": "0.047",
+            "content": "叔叔"
           }
         ],
-        "start_time": "17.719",
-        "end_time": "18.25"
+        "start_time": "95.65",
+        "end_time": "96.12"
       },
       {
         "id": 32,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.998",
-            "content": "そう"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "18.25",
-        "end_time": "18.51"
+        ]
       },
       {
         "id": 33,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.989",
-            "content": "な"
+            "confidence": "0.831",
+            "content": "俺家"
           }
         ],
-        "start_time": "18.51",
-        "end_time": "18.659"
+        "start_time": "96.559",
+        "end_time": "97.08"
       },
       {
         "id": 34,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.994",
-            "content": "ん"
+            "confidence": "0.995",
+            "content": "可是"
           }
         ],
-        "start_time": "18.659",
-        "end_time": "18.819"
+        "start_time": "97.08",
+        "end_time": "97.4"
       },
       {
         "id": 35,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.458",
-            "content": "だ。"
+            "confidence": "0.981",
+            "content": "城中"
           }
         ],
-        "start_time": "18.819",
-        "end_time": "19.27"
+        "start_time": "97.4",
+        "end_time": "97.83"
       },
       {
         "id": 36,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.997",
-            "content": "下"
+            "confidence": "0.916",
+            "content": "数一数"
           }
         ],
-        "start_time": "20.129",
-        "end_time": "20.51"
+        "start_time": "97.83",
+        "end_time": "98.449"
       },
       {
         "id": 37,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "に"
+            "confidence": "0.822",
+            "content": "二"
           }
         ],
-        "start_time": "20.51",
-        "end_time": "20.909"
+        "start_time": "98.449",
+        "end_time": "98.669"
       },
       {
         "id": 38,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.98",
-            "content": "ヒーター"
+            "confidence": "0.997",
+            "content": "的"
           }
         ],
-        "start_time": "20.92",
-        "end_time": "21.6"
+        "start_time": "98.669",
+        "end_time": "98.83"
       },
       {
         "id": 39,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "が"
+            "confidence": "0.955",
+            "content": "富裕"
           }
         ],
-        "start_time": "21.6",
-        "end_time": "21.799"
+        "start_time": "98.83",
+        "end_time": "99.309"
       },
       {
         "id": 40,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.102",
-            "content": "付い"
+            "confidence": "0.578",
+            "content": "啊"
           }
         ],
-        "start_time": "21.799",
-        "end_time": "22.159"
+        "start_time": "99.309",
+        "end_time": "99.489"
       },
       {
         "id": 41,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.953",
-            "content": "てる"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "22.159",
-        "end_time": "22.469"
+        ]
       },
       {
         "id": 42,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.825",
-            "content": "から、"
+            "confidence": "0.98",
+            "content": "要不是"
           }
         ],
-        "start_time": "22.469",
-        "end_time": "23.02"
+        "start_time": "99.959",
+        "end_time": "100.4"
       },
       {
         "id": 43,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.689",
-            "content": "とっても"
+            "confidence": "0.989",
+            "content": "这"
           }
         ],
-        "start_time": "23.239",
-        "end_time": "23.959"
+        "start_time": "100.4",
+        "end_time": "100.629"
       },
       {
         "id": 44,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.509",
-            "content": "あったかい"
+            "confidence": "0.78",
+            "content": "八字"
           }
         ],
-        "start_time": "23.959",
-        "end_time": "24.549"
+        "start_time": "100.629",
+        "end_time": "101.16"
       },
       {
         "id": 45,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.988",
-            "content": "の。"
+            "confidence": "0.969",
+            "content": "对"
           }
         ],
-        "start_time": "24.549",
-        "end_time": "24.899"
+        "start_time": "101.16",
+        "end_time": "101.43"
       },
       {
         "id": 46,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.343",
-            "content": "えー、"
+            "confidence": "0.992",
+            "content": "上"
           }
         ],
-        "start_time": "25.879",
-        "end_time": "26.43"
+        "start_time": "101.43",
+        "end_time": "101.68"
       },
       {
         "id": 47,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.902",
-            "content": "すごい"
+            "confidence": "0.986",
+            "content": "了"
           }
         ],
-        "start_time": "26.43",
-        "end_time": "26.979"
+        "start_time": "101.68",
+        "end_time": "101.8"
       },
       {
         "id": 48,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.68",
-            "content": "ね。"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "26.979",
-        "end_time": "27.389"
+        ]
       },
       {
         "id": 49,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.989",
-            "content": "私"
+            "confidence": "0.84",
+            "content": "哪能"
           }
         ],
-        "start_time": "28.11",
-        "end_time": "28.62"
+        "start_time": "102.08",
+        "end_time": "102.589"
       },
       {
         "id": 50,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "の"
+            "confidence": "0.996",
+            "content": "看"
           }
         ],
-        "start_time": "28.62",
-        "end_time": "28.989"
+        "start_time": "102.589",
+        "end_time": "102.83"
       },
       {
         "id": 51,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "お"
+            "confidence": "0.985",
+            "content": "上"
           }
         ],
-        "start_time": "28.989",
-        "end_time": "29.149"
+        "start_time": "102.83",
+        "end_time": "102.959"
       },
       {
         "id": 52,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.821",
-            "content": "ばあ"
+            "confidence": "0.984",
+            "content": "你家"
           }
         ],
-        "start_time": "29.149",
-        "end_time": "29.469"
+        "start_time": "102.959",
+        "end_time": "103.319"
       },
       {
         "id": 53,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "ちゃん"
+            "confidence": "0.826",
+            "content": "富"
           }
         ],
-        "start_time": "29.469",
-        "end_time": "29.75"
+        "start_time": "103.319",
+        "end_time": "103.55"
       },
       {
         "id": 54,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "の"
+            "confidence": "0.44",
+            "content": "姑娘。"
           }
         ],
-        "start_time": "29.75",
-        "end_time": "29.94"
+        "start_time": "103.55",
+        "end_time": "104.379"
       },
       {
         "id": 55,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "家"
+            "confidence": "0.996",
+            "content": "可是"
           }
         ],
-        "start_time": "29.94",
-        "end_time": "30.139"
+        "start_time": "105.879",
+        "end_time": "106.669"
       },
       {
         "id": 56,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "に"
+            "confidence": "0.995",
+            "content": "我"
           }
         ],
-        "start_time": "30.139",
-        "end_time": "30.29"
+        "start_time": "107.04",
+        "end_time": "107.199"
       },
       {
         "id": 57,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "ある"
+            "confidence": "0.975",
+            "content": "听说"
           }
         ],
-        "start_time": "30.29",
-        "end_time": "30.62"
+        "start_time": "107.199",
+        "end_time": "107.47"
       },
       {
         "id": 58,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.873",
-            "content": "から、"
+            "confidence": "0.928",
+            "content": "安少爷"
           }
         ],
-        "start_time": "30.62",
-        "end_time": "31.93"
+        "start_time": "107.47",
+        "end_time": "108.19"
       },
       {
         "id": 59,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.998",
-            "content": "今度"
+            "confidence": "0.876",
+            "content": "哎"
           }
         ],
-        "start_time": "31.94",
-        "end_time": "32.009"
+        "start_time": "108.519",
+        "end_time": "109.419"
       },
       {
         "id": 60,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.998",
-            "content": "試し"
+            "confidence": "0.228",
+            "content": "呦"
           }
         ],
-        "start_time": "32.009",
-        "end_time": "32.419"
+        "start_time": "109.419",
+        "end_time": "109.489"
       },
       {
         "id": 61,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "て"
+            "confidence": "0.918",
+            "content": "安少爷"
           }
         ],
-        "start_time": "32.419",
-        "end_time": "32.54"
+        "start_time": "109.489",
+        "end_time": "110.209"
       },
       {
         "id": 62,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.62",
-            "content": "みる。"
+            "confidence": "0.988",
+            "content": "身子"
           }
         ],
-        "start_time": "32.54",
-        "end_time": "33.139"
+        "start_time": "110.209",
+        "end_time": "110.68"
       },
       {
         "id": 63,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.857",
-            "content": "いい"
+            "confidence": "0.989",
+            "content": "是"
           }
         ],
-        "start_time": "34.08",
-        "end_time": "34.349"
+        "start_time": "110.68",
+        "end_time": "110.879"
       },
       {
         "id": 64,
@@ -781,204 +788,1132 @@
         "alternatives": [
           {
             "confidence": "0.998",
-            "content": "の"
+            "content": "差"
           }
         ],
-        "start_time": "34.349",
-        "end_time": "34.68"
+        "start_time": "110.879",
+        "end_time": "111.15"
       },
       {
         "id": 65,
-        "type": "punctuation",
+        "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.0",
-            "content": "?"
+            "confidence": "0.99",
+            "content": "了"
           }
-        ]
+        ],
+        "start_time": "111.15",
+        "end_time": "111.279"
       },
       {
         "id": 66,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.997",
-            "content": "試し"
+            "confidence": "0.986",
+            "content": "点"
           }
         ],
-        "start_time": "35.11",
-        "end_time": "35.549"
+        "start_time": "111.279",
+        "end_time": "111.79"
       },
       {
         "id": 67,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "1.0",
-            "content": "て"
+            "confidence": "0.988",
+            "content": "实话"
           }
         ],
-        "start_time": "35.549",
-        "end_time": "35.709"
+        "start_time": "111.919",
+        "end_time": "112.36"
       },
       {
         "id": 68,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.989",
-            "content": "み"
+            "confidence": "0.966",
+            "content": "跟"
           }
         ],
-        "start_time": "35.709",
-        "end_time": "35.88"
+        "start_time": "112.36",
+        "end_time": "112.48"
       },
       {
         "id": 69,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.938",
-            "content": "たい。"
+            "confidence": "0.995",
+            "content": "你"
           }
         ],
-        "start_time": "35.88",
-        "end_time": "36.43"
+        "start_time": "112.48",
+        "end_time": "112.709"
       },
       {
         "id": 70,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.495",
-            "content": "うわあ、"
+            "confidence": "0.998",
+            "content": "说"
           }
         ],
-        "start_time": "36.72",
-        "end_time": "37.599"
+        "start_time": "112.709",
+        "end_time": "113.0"
       },
       {
         "id": 71,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.136",
-            "content": "すっごい"
+            "confidence": "0.987",
+            "content": "了"
           }
         ],
-        "start_time": "37.599",
-        "end_time": "38.479"
+        "start_time": "113.0",
+        "end_time": "113.12"
       },
       {
         "id": 72,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.994",
-            "content": "気持ち"
+            "confidence": "0.99",
+            "content": "吧"
           }
         ],
-        "start_time": "38.479",
-        "end_time": "39.229"
+        "start_time": "113.12",
+        "end_time": "113.389"
       },
       {
         "id": 73,
-        "type": "pronunciation",
+        "type": "punctuation",
         "alternatives": [
           {
-            "confidence": "0.692",
-            "content": "いい。"
+            "confidence": "0.0",
+            "content": ","
           }
-        ],
-        "start_time": "39.229",
-        "end_time": "39.509"
+        ]
       },
       {
         "id": 74,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.382",
-            "content": "でしょう。"
+            "confidence": "0.984",
+            "content": "这"
           }
         ],
-        "start_time": "40.2",
-        "end_time": "40.88"
+        "start_time": "113.599",
+        "end_time": "113.769"
       },
       {
         "id": 75,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.826",
-            "content": "はい、"
+            "confidence": "0.392",
+            "content": "一会儿"
           }
         ],
-        "start_time": "41.15",
-        "end_time": "41.549"
+        "start_time": "113.769",
+        "end_time": "114.319"
       },
       {
         "id": 76,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "これ"
+            "confidence": "0.906",
+            "content": "安家"
           }
         ],
-        "start_time": "41.75",
-        "end_time": "42.04"
+        "start_time": "114.319",
+        "end_time": "114.8"
       },
       {
         "id": 77,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.999",
-            "content": "食べ"
+            "confidence": "0.966",
+            "content": "急"
           }
         ],
-        "start_time": "42.04",
-        "end_time": "42.43"
+        "start_time": "114.8",
+        "end_time": "114.959"
       },
       {
         "id": 78,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.867",
-            "content": "て。"
+            "confidence": "0.749",
+            "content": "着"
           }
         ],
-        "start_time": "42.43",
-        "end_time": "42.909"
+        "start_time": "114.959",
+        "end_time": "115.04"
       },
       {
         "id": 79,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.433",
-            "content": "え、"
+            "confidence": "0.956",
+            "content": "给"
           }
         ],
-        "start_time": "43.599",
-        "end_time": "44.04"
+        "start_time": "115.04",
+        "end_time": "115.16"
       },
       {
         "id": 80,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.664",
-            "content": "みかん"
+            "confidence": "0.863",
+            "content": "安少爷"
           }
         ],
-        "start_time": "44.479",
-        "end_time": "45.069"
+        "start_time": "115.16",
+        "end_time": "115.69"
       },
       {
         "id": 81,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.756",
+            "content": "娶亲"
+          }
+        ],
+        "start_time": "115.69",
+        "end_time": "116.349"
+      },
+      {
+        "id": 82,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.991",
+            "content": "其实"
+          }
+        ],
+        "start_time": "116.559",
+        "end_time": "117.04"
+      },
+      {
+        "id": 83,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.992",
+            "content": "是"
+          }
+        ],
+        "start_time": "117.04",
+        "end_time": "117.16"
+      },
+      {
+        "id": 84,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.896",
+            "content": "想"
+          }
+        ],
+        "start_time": "117.16",
+        "end_time": "117.349"
+      },
+      {
+        "id": 85,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.434",
+            "content": "冲冲喜"
+          }
+        ],
+        "start_time": "117.349",
+        "end_time": "118.19"
+      },
+      {
+        "id": 86,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.951",
+            "content": "万一"
+          }
+        ],
+        "start_time": "118.639",
+        "end_time": "119.029"
+      },
+      {
+        "id": 87,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.923",
+            "content": "这安少爷"
+          }
+        ],
+        "start_time": "119.029",
+        "end_time": "119.879"
+      },
+      {
+        "id": 88,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.992",
+            "content": "去"
+          }
+        ],
+        "start_time": "119.879",
+        "end_time": "120.08"
+      },
+      {
+        "id": 89,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.997",
+            "content": "了"
+          }
+        ],
+        "start_time": "120.08",
+        "end_time": "120.419"
+      },
+      {
+        "id": 90,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.87",
+            "content": "富儿"
+          }
+        ],
+        "start_time": "120.519",
+        "end_time": "120.879"
+      },
+      {
+        "id": 92,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.988",
+            "content": "姑娘"
+          }
+        ],
+        "start_time": "120.879",
+        "end_time": "121.349"
+      },
+      {
+        "id": 93,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "也"
+          }
+        ],
+        "start_time": "121.349",
+        "end_time": "121.51"
+      },
+      {
+        "id": 94,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "是"
+          }
+        ],
+        "start_time": "121.51",
+        "end_time": "121.599"
+      },
+      {
+        "id": 95,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.978",
+            "content": "衣食无忧"
+          }
+        ],
+        "start_time": "121.599",
+        "end_time": "122.58"
+      },
+      {
+        "id": 96,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.988",
+            "content": "的"
+          }
+        ],
+        "start_time": "122.58",
+        "end_time": "122.72"
+      },
+      {
+        "id": 97,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.974",
+            "content": "呀"
+          }
+        ],
+        "start_time": "122.72",
+        "end_time": "123.23"
+      },
+      {
+        "id": 98,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.882",
+            "content": "若"
+          }
+        ],
+        "start_time": "123.709",
+        "end_time": "124.12"
+      },
+      {
+        "id": 99,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.204",
+            "content": "因缘"
+          }
+        ],
+        "start_time": "124.12",
+        "end_time": "124.559"
+      },
+      {
+        "id": 100,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.812",
+            "content": "富儿"
+          }
+        ],
+        "start_time": "125.08",
+        "end_time": "125.41"
+      },
+      {
+        "id": 101,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.789",
+            "content": "过得"
+          }
+        ],
+        "start_time": "125.41",
+        "end_time": "125.79"
+      },
+      {
+        "id": 102,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "不好"
+          }
+        ],
+        "start_time": "125.79",
+        "end_time": "126.12"
+      },
+      {
+        "id": 103,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.99",
+            "content": "我"
+          }
+        ],
+        "start_time": "126.519",
+        "end_time": "126.68"
+      },
+      {
+        "id": 105,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.976",
+            "content": "便是"
+          }
+        ],
+        "start_time": "126.68",
+        "end_time": "126.879"
+      },
+      {
+        "id": 106,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.926",
+            "content": "害"
+          }
+        ],
+        "start_time": "126.879",
+        "end_time": "127.11"
+      },
+      {
+        "id": 107,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.993",
+            "content": "了"
+          }
+        ],
+        "start_time": "127.11",
+        "end_time": "127.239"
+      },
+      {
+        "id": 108,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.905",
+            "content": "他"
+          }
+        ],
+        "start_time": "127.239",
+        "end_time": "127.55"
+      },
+      {
+        "id": 109,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.687",
+            "content": "哎"
+          }
+        ],
+        "start_time": "127.76",
+        "end_time": "128.119"
+      },
+      {
+        "id": 110,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.984",
+            "content": "你"
+          }
+        ],
+        "start_time": "128.229",
+        "end_time": "128.479"
+      },
+      {
+        "id": 112,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.989",
+            "content": "这"
+          }
+        ],
+        "start_time": "128.479",
+        "end_time": "128.869"
+      },
+      {
+        "id": 113,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.539",
+            "content": "做"
+          }
+        ],
+        "start_time": "130.27",
+        "end_time": "130.279"
+      },
+      {
+        "id": 114,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.955",
+            "content": "姑娘"
+          }
+        ],
+        "start_time": "130.279",
+        "end_time": "130.639"
+      },
+      {
+        "id": 115,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.785",
+            "content": "哎"
+          }
+        ],
+        "start_time": "137.71",
+        "end_time": "137.99"
+      },
+      {
+        "id": 116,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.544",
+            "content": "呦"
+          }
+        ],
+        "start_time": "137.99",
+        "end_time": "138.419"
+      },
+      {
+        "id": 117,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.323",
+            "content": "傅"
+          }
+        ],
+        "start_time": "138.509",
+        "end_time": "138.74"
+      },
+      {
+        "id": 119,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.896",
+            "content": "姑娘"
+          }
+        ],
+        "start_time": "138.74",
+        "end_time": "139.36"
+      },
+      {
+        "id": 120,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.983",
+            "content": "这"
+          }
+        ],
+        "start_time": "139.619",
+        "end_time": "139.86"
+      },
+      {
+        "id": 122,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.995",
+            "content": "可是"
+          }
+        ],
+        "start_time": "139.86",
+        "end_time": "140.229"
+      },
+      {
+        "id": 123,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.993",
+            "content": "一门"
+          }
+        ],
+        "start_time": "140.229",
+        "end_time": "140.779"
+      },
+      {
+        "id": 124,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.996",
+            "content": "好"
+          }
+        ],
+        "start_time": "140.779",
+        "end_time": "141.149"
+      },
+      {
+        "id": 125,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.825",
+            "content": "心事"
+          }
+        ],
+        "start_time": "141.149",
+        "end_time": "141.83"
+      },
+      {
+        "id": 126,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.902",
+            "content": "啊"
+          }
+        ],
+        "start_time": "141.83",
+        "end_time": "142.22"
+      },
+      {
+        "id": 127,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.116",
+            "content": "富尔"
+          }
+        ],
+        "start_time": "143.22",
+        "end_time": "143.619"
+      },
+      {
+        "id": 129,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.463",
+            "content": "慎重。"
+          }
+        ],
+        "start_time": "144.509",
+        "end_time": "145.21"
+      },
+      {
+        "id": 131,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.416",
+            "content": "陆"
+          }
+        ],
+        "start_time": "147.58",
+        "end_time": "147.679"
+      },
+      {
+        "id": 132,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.784",
+            "content": "姑娘"
+          }
+        ],
+        "start_time": "147.679",
+        "end_time": "148.25"
+      },
+      {
+        "id": 133,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.991",
+            "content": "我愿意"
+          }
+        ],
+        "start_time": "150.02",
+        "end_time": "150.58"
+      },
+      {
+        "id": 135,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.781",
+            "content": "的。"
+          }
+        ],
+        "start_time": "150.58",
+        "end_time": "151.69"
+      },
+      {
+        "id": 136,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.976",
+            "content": "婚事"
+          }
+        ],
+        "start_time": "170.57",
+        "end_time": "171.0"
+      },
+      {
+        "id": 137,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "那么"
+          }
+        ],
+        "start_time": "171.0",
+        "end_time": "171.21"
+      },
+      {
+        "id": 138,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.756",
+            "content": "清"
+          }
+        ],
+        "start_time": "171.21",
+        "end_time": "171.399"
+      },
+      {
+        "id": 139,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.489",
+            "content": "了"
+          }
+        ],
+        "start_time": "171.399",
+        "end_time": "171.529"
+      },
+      {
+        "id": 140,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.994",
+            "content": "也"
+          }
+        ],
+        "start_time": "171.529",
+        "end_time": "171.6"
+      },
+      {
+        "id": 141,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.991",
+            "content": "就"
+          }
+        ],
+        "start_time": "171.6",
+        "end_time": "171.649"
+      },
+      {
+        "id": 142,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.742",
+            "content": "罢"
+          }
+        ],
+        "start_time": "171.649",
+        "end_time": "171.88"
+      },
+      {
+        "id": 143,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.931",
+            "content": "了"
+          }
+        ],
+        "start_time": "171.88",
+        "end_time": "172.089"
+      },
+      {
+        "id": 144,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.698",
+            "content": "您"
+          }
+        ],
+        "start_time": "172.69",
+        "end_time": "172.889"
+      },
+      {
+        "id": 146,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.993",
+            "content": "知道"
+          }
+        ],
+        "start_time": "172.889",
+        "end_time": "173.169"
+      },
+      {
+        "id": 147,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.727",
+            "content": "男少爷"
+          }
+        ],
+        "start_time": "173.169",
+        "end_time": "173.679"
+      },
+      {
+        "id": 148,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.989",
+            "content": "是"
+          }
+        ],
+        "start_time": "173.679",
+        "end_time": "173.77"
+      },
+      {
+        "id": 149,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.986",
+            "content": "个"
+          }
+        ],
+        "start_time": "173.77",
+        "end_time": "173.85"
+      },
+      {
+        "id": 150,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.555",
+            "content": "药"
+          }
+        ],
+        "start_time": "173.85",
+        "end_time": "174.02"
+      },
+      {
+        "id": 151,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.592",
+            "content": "罐子"
+          }
+        ],
+        "start_time": "174.02",
+        "end_time": "174.449"
+      },
+      {
+        "id": 152,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.748",
+            "content": "你还"
+          }
+        ],
+        "start_time": "174.919",
+        "end_time": "175.11"
+      },
+      {
+        "id": 154,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.965",
+            "content": "眼巴巴"
+          }
+        ],
+        "start_time": "175.11",
+        "end_time": "175.49"
+      },
+      {
+        "id": 155,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.732",
+            "content": "的"
+          }
+        ],
+        "start_time": "175.49",
+        "end_time": "175.539"
+      },
+      {
+        "id": 156,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.839",
+            "content": "嫁"
+          }
+        ],
+        "start_time": "175.539",
+        "end_time": "175.77"
+      },
+      {
+        "id": 157,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.837",
+            "content": "过去"
+          }
+        ],
+        "start_time": "175.77",
+        "end_time": "175.96"
+      },
+      {
+        "id": 158,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.992",
+            "content": "做"
+          }
+        ],
+        "start_time": "175.96",
+        "end_time": "176.139"
+      },
+      {
+        "id": 159,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.91",
+            "content": "什么"
+          }
+        ],
+        "start_time": "176.139",
+        "end_time": "176.41"
+      },
+      {
+        "id": 160,
         "type": "punctuation",
         "alternatives": [
           {
@@ -988,168 +1923,1178 @@
         ]
       },
       {
-        "id": 82,
+        "id": 161,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.599",
-            "content": "うん。"
+            "confidence": "0.945",
+            "content": "若"
           }
         ],
-        "start_time": "45.79",
-        "end_time": "46.169"
+        "start_time": "180.16",
+        "end_time": "180.449"
       },
       {
-        "id": 83,
+        "id": 162,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.784",
-            "content": "こたつ"
+            "confidence": "0.735",
+            "content": "不是"
           }
         ],
-        "start_time": "46.52",
-        "end_time": "47.11"
+        "start_time": "180.449",
+        "end_time": "180.869"
       },
       {
-        "id": 84,
+        "id": 163,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.771",
+            "content": "时"
+          }
+        ],
+        "start_time": "180.869",
+        "end_time": "181.08"
+      },
+      {
+        "id": 164,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 165,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.768",
+            "content": "则"
+          }
+        ],
+        "start_time": "181.919",
+        "end_time": "182.149"
+      },
+      {
+        "id": 166,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.564",
+            "content": "会"
+          }
+        ],
+        "start_time": "182.149",
+        "end_time": "182.36"
+      },
+      {
+        "id": 167,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "知道"
+          }
+        ],
+        "start_time": "182.36",
+        "end_time": "183.07"
+      },
+      {
+        "id": 168,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.981",
+            "content": "我"
+          }
+        ],
+        "start_time": "183.679",
+        "end_time": "183.8"
+      },
+      {
+        "id": 169,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.795",
+            "content": "一"
+          }
+        ],
+        "start_time": "183.8",
+        "end_time": "183.96"
+      },
+      {
+        "id": 170,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.51",
+            "content": "心想"
+          }
+        ],
+        "start_time": "183.96",
+        "end_time": "184.309"
+      },
+      {
+        "id": 171,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.662",
+            "content": "要"
+          }
+        ],
+        "start_time": "184.309",
+        "end_time": "184.399"
+      },
+      {
+        "id": 172,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.987",
+            "content": "寻找"
+          }
+        ],
+        "start_time": "184.399",
+        "end_time": "184.839"
+      },
+      {
+        "id": 173,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.995",
+            "content": "的"
+          }
+        ],
+        "start_time": "184.839",
+        "end_time": "184.99"
+      },
+      {
+        "id": 174,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.995",
+            "content": "那个"
+          }
+        ],
+        "start_time": "184.99",
+        "end_time": "185.27"
+      },
+      {
+        "id": 175,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.885",
+            "content": "人。"
+          }
+        ],
+        "start_time": "185.27",
+        "end_time": "185.69"
+      },
+      {
+        "id": 176,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.972",
+            "content": "是否"
+          }
+        ],
+        "start_time": "186.52",
+        "end_time": "187.24"
+      },
+      {
+        "id": 177,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.992",
+            "content": "也"
+          }
+        ],
+        "start_time": "187.729",
+        "end_time": "187.919"
+      },
+      {
+        "id": 178,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.997",
+            "content": "在"
+          }
+        ],
+        "start_time": "187.919",
+        "end_time": "188.089"
+      },
+      {
+        "id": 179,
         "type": "pronunciation",
         "alternatives": [
           {
             "confidence": "0.999",
-            "content": "と"
+            "content": "等"
           }
         ],
-        "start_time": "47.11",
-        "end_time": "47.279"
+        "start_time": "188.089",
+        "end_time": "188.289"
       },
       {
-        "id": 85,
+        "id": 180,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.763",
-            "content": "言っ"
+            "confidence": "0.558",
+            "content": "我。"
           }
         ],
-        "start_time": "47.279",
-        "end_time": "47.659"
+        "start_time": "188.289",
+        "end_time": "188.759"
       },
       {
-        "id": 86,
+        "id": 181,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.66",
-            "content": "たら、"
+            "confidence": "0.667",
+            "content": "说"
           }
         ],
-        "start_time": "47.659",
-        "end_time": "48.569"
+        "start_time": "214.809",
+        "end_time": "215.35"
       },
       {
-        "id": 87,
+        "id": 182,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.186",
+            "content": "了"
+          }
+        ],
+        "start_time": "215.35",
+        "end_time": "215.419"
+      },
+      {
+        "id": 183,
         "type": "pronunciation",
         "alternatives": [
           {
             "confidence": "0.996",
-            "content": "やっぱり"
+            "content": "你"
           }
         ],
-        "start_time": "48.639",
-        "end_time": "49.29"
+        "start_time": "219.16",
+        "end_time": "219.309"
       },
       {
-        "id": 88,
+        "id": 184,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.645",
-            "content": "みかん"
+            "confidence": "0.998",
+            "content": "的"
           }
         ],
-        "start_time": "49.299",
-        "end_time": "49.909"
+        "start_time": "219.309",
+        "end_time": "219.44"
       },
       {
-        "id": 89,
+        "id": 185,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.743",
-            "content": "でしょ。"
+            "confidence": "1.0",
+            "content": "名字"
           }
         ],
-        "start_time": "49.909",
-        "end_time": "50.31"
+        "start_time": "219.44",
+        "end_time": "219.71"
       },
       {
-        "id": 90,
+        "id": 186,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.275",
-            "content": "こたつ。"
+            "confidence": "0.999",
+            "content": "很"
           }
         ],
-        "start_time": "51.919",
-        "end_time": "52.979"
+        "start_time": "219.71",
+        "end_time": "219.869"
       },
       {
-        "id": 91,
+        "id": 187,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.515",
-            "content": "こたつ、"
+            "confidence": "0.996",
+            "content": "好听"
           }
         ],
-        "start_time": "53.86",
-        "end_time": "55.099"
+        "start_time": "219.869",
+        "end_time": "220.229"
       },
       {
-        "id": 92,
+        "id": 188,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 189,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.448",
-            "content": "みかん。"
+            "confidence": "0.989",
+            "content": "想来"
           }
         ],
-        "start_time": "55.61",
-        "end_time": "56.27"
+        "start_time": "221.1",
+        "end_time": "221.63"
       },
       {
-        "id": 93,
+        "id": 190,
         "type": "pronunciation",
         "alternatives": [
           {
-            "confidence": "0.245",
-            "content": "みかん、"
+            "confidence": "0.998",
+            "content": "应该"
           }
         ],
-        "start_time": "57.349",
-        "end_time": "58.049"
+        "start_time": "222.19",
+        "end_time": "222.399"
+      },
+      {
+        "id": 191,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "是"
+          }
+        ],
+        "start_time": "222.399",
+        "end_time": "222.71"
+      },
+      {
+        "id": 192,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.987",
+            "content": "人"
+          }
+        ],
+        "start_time": "222.71",
+        "end_time": "222.889"
+      },
+      {
+        "id": 193,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.769",
+            "content": "如其名"
+          }
+        ],
+        "start_time": "222.889",
+        "end_time": "223.309"
+      },
+      {
+        "id": 194,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.899",
+            "content": "吧。"
+          }
+        ],
+        "start_time": "223.309",
+        "end_time": "223.529"
+      },
+      {
+        "id": 195,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.939",
+            "content": "安"
+          }
+        ],
+        "start_time": "227.029",
+        "end_time": "227.339"
+      },
+      {
+        "id": 196,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.706",
+            "content": "少年"
+          }
+        ],
+        "start_time": "227.339",
+        "end_time": "227.869"
+      },
+      {
+        "id": 197,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.86",
+            "content": "你"
+          }
+        ],
+        "start_time": "229.619",
+        "end_time": "229.779"
+      },
+      {
+        "id": 198,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.889",
+            "content": "若"
+          }
+        ],
+        "start_time": "229.779",
+        "end_time": "230.009"
+      },
+      {
+        "id": 199,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.539",
+            "content": "疑惑"
+          }
+        ],
+        "start_time": "230.009",
+        "end_time": "230.279"
+      },
+      {
+        "id": 200,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.948",
+            "content": "我"
+          }
+        ],
+        "start_time": "230.279",
+        "end_time": "230.389"
+      },
+      {
+        "id": 201,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.992",
+            "content": "的"
+          }
+        ],
+        "start_time": "230.389",
+        "end_time": "230.47"
+      },
+      {
+        "id": 202,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.988",
+            "content": "模样"
+          }
+        ],
+        "start_time": "230.47",
+        "end_time": "230.94"
+      },
+      {
+        "id": 203,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.986",
+            "content": "不是"
+          }
+        ],
+        "start_time": "231.55",
+        "end_time": "231.94"
+      },
+      {
+        "id": 205,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.992",
+            "content": "应该"
+          }
+        ],
+        "start_time": "231.94",
+        "end_time": "232.1"
+      },
+      {
+        "id": 206,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.46",
+            "content": "掀"
+          }
+        ],
+        "start_time": "232.1",
+        "end_time": "232.27"
+      },
+      {
+        "id": 207,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.861",
+            "content": "了"
+          }
+        ],
+        "start_time": "232.27",
+        "end_time": "232.339"
+      },
+      {
+        "id": 208,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.777",
+            "content": "红盖头"
+          }
+        ],
+        "start_time": "232.339",
+        "end_time": "232.83"
+      },
+      {
+        "id": 209,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.472",
+            "content": "瞧瞧"
+          }
+        ],
+        "start_time": "232.83",
+        "end_time": "233.27"
+      },
+      {
+        "id": 210,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 211,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.332",
+            "content": "说"
+          }
+        ],
+        "start_time": "234.35",
+        "end_time": "234.5"
+      },
+      {
+        "id": 212,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.562",
+            "content": "是"
+          }
+        ],
+        "start_time": "234.5",
+        "end_time": "234.63"
+      },
+      {
+        "id": 213,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.96",
+            "content": "长"
+          }
+        ],
+        "start_time": "234.63",
+        "end_time": "234.789"
+      },
+      {
+        "id": 214,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.557",
+            "content": "得"
+          }
+        ],
+        "start_time": "234.789",
+        "end_time": "234.899"
+      },
+      {
+        "id": 215,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.723",
+            "content": "外瓜"
+          }
+        ],
+        "start_time": "234.899",
+        "end_time": "235.309"
+      },
+      {
+        "id": 216,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.396",
+            "content": "里枣"
+          }
+        ],
+        "start_time": "235.309",
+        "end_time": "235.63"
+      },
+      {
+        "id": 217,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 218,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.97",
+            "content": "赶紧"
+          }
+        ],
+        "start_time": "236.229",
+        "end_time": "236.589"
+      },
+      {
+        "id": 219,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.905",
+            "content": "将"
+          }
+        ],
+        "start_time": "236.589",
+        "end_time": "236.699"
+      },
+      {
+        "id": 220,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.868",
+            "content": "我"
+          }
+        ],
+        "start_time": "236.699",
+        "end_time": "236.869"
+      },
+      {
+        "id": 221,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.903",
+            "content": "退回"
+          }
+        ],
+        "start_time": "236.869",
+        "end_time": "237.149"
+      },
+      {
+        "id": 222,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.783",
+            "content": "娘家"
+          }
+        ],
+        "start_time": "237.149",
+        "end_time": "237.55"
+      },
+      {
+        "id": 223,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.74",
+            "content": "去。"
+          }
+        ],
+        "start_time": "237.55",
+        "end_time": "237.86"
+      },
+      {
+        "id": 224,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.985",
+            "content": "对"
+          }
+        ],
+        "start_time": "240.669",
+        "end_time": "240.839"
+      },
+      {
+        "id": 225,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.639",
+            "content": "不起"
+          }
+        ],
+        "start_time": "240.839",
+        "end_time": "241.279"
+      },
+      {
+        "id": 226,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 227,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.997",
+            "content": "我"
+          }
+        ],
+        "start_time": "242.07",
+        "end_time": "242.309"
+      },
+      {
+        "id": 228,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "可能"
+          }
+        ],
+        "start_time": "242.309",
+        "end_time": "242.91"
+      },
+      {
+        "id": 229,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.983",
+            "content": "没有"
+          }
+        ],
+        "start_time": "243.429",
+        "end_time": "243.63"
+      },
+      {
+        "id": 230,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.996",
+            "content": "办法"
+          }
+        ],
+        "start_time": "243.63",
+        "end_time": "243.949"
+      },
+      {
+        "id": 231,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.997",
+            "content": "看到"
+          }
+        ],
+        "start_time": "243.949",
+        "end_time": "244.279"
+      },
+      {
+        "id": 232,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.816",
+            "content": "了。"
+          }
+        ],
+        "start_time": "244.279",
+        "end_time": "244.57"
+      },
+      {
+        "id": 233,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.873",
+            "content": "等"
+          }
+        ],
+        "start_time": "275.609",
+        "end_time": "275.769"
+      },
+      {
+        "id": 234,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.835",
+            "content": "我"
+          }
+        ],
+        "start_time": "275.769",
+        "end_time": "276.01"
+      },
+      {
+        "id": 235,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.086",
+            "content": "和"
+          }
+        ],
+        "start_time": "276.01",
+        "end_time": "276.13"
+      },
+      {
+        "id": 236,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.09",
+            "content": "眼中"
+          }
+        ],
+        "start_time": "276.13",
+        "end_time": "276.559"
+      },
+      {
+        "id": 237,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.881",
+            "content": "东方"
+          }
+        ],
+        "start_time": "276.859",
+        "end_time": "277.299"
+      },
+      {
+        "id": 238,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.423",
+            "content": "新春"
+          }
+        ],
+        "start_time": "277.299",
+        "end_time": "277.66"
+      },
+      {
+        "id": 239,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.966",
+            "content": "留下"
+          }
+        ],
+        "start_time": "277.66",
+        "end_time": "278.16"
+      },
+      {
+        "id": 240,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.949",
+            "content": "的"
+          }
+        ],
+        "start_time": "278.16",
+        "end_time": "278.329"
+      },
+      {
+        "id": 241,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.146",
+            "content": "我"
+          }
+        ],
+        "start_time": "282.41",
+        "end_time": "282.649"
+      },
+      {
+        "id": 242,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.905",
+            "content": "听"
+          }
+        ],
+        "start_time": "282.649",
+        "end_time": "282.839"
+      },
+      {
+        "id": 243,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.847",
+            "content": "到"
+          }
+        ],
+        "start_time": "282.839",
+        "end_time": "282.94"
+      },
+      {
+        "id": 244,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.715",
+            "content": "你"
+          }
+        ],
+        "start_time": "283.95",
+        "end_time": "284.19"
+      },
+      {
+        "id": 245,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.059",
+            "content": "就"
+          }
+        ],
+        "start_time": "284.19",
+        "end_time": "284.5"
+      },
+      {
+        "id": 246,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.727",
+            "content": "晚上"
+          }
+        ],
+        "start_time": "284.5",
+        "end_time": "284.75"
+      },
+      {
+        "id": 247,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.489",
+            "content": "呢"
+          }
+        ],
+        "start_time": "284.75",
+        "end_time": "284.91"
+      },
+      {
+        "id": 248,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "?"
+          }
+        ]
+      },
+      {
+        "id": 249,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.669",
+            "content": "然后网"
+          }
+        ],
+        "start_time": "286.959",
+        "end_time": "287.51"
+      },
+      {
+        "id": 250,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.731",
+            "content": "路上"
+          }
+        ],
+        "start_time": "287.51",
+        "end_time": "287.7"
+      },
+      {
+        "id": 251,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.894",
+            "content": "的"
+          }
+        ],
+        "start_time": "287.7",
+        "end_time": "288.149"
+      },
+      {
+        "id": 252,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.295",
+            "content": "像"
+          }
+        ],
+        "start_time": "291.47",
+        "end_time": "291.709"
+      },
+      {
+        "id": 253,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.278",
+            "content": "花"
+          }
+        ],
+        "start_time": "291.709",
+        "end_time": "291.82"
+      },
+      {
+        "id": 254,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.123",
+            "content": "现在"
+          }
+        ],
+        "start_time": "293.279",
+        "end_time": "293.299"
+      },
+      {
+        "id": 255,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.45",
+            "content": "等等"
+          }
+        ],
+        "start_time": "295.79",
+        "end_time": "296.1"
+      },
+      {
+        "id": 256,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.613",
+            "content": "节目"
+          }
+        ],
+        "start_time": "302.339",
+        "end_time": "302.45"
+      },
+      {
+        "id": 257,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.382",
+            "content": "我们"
+          }
+        ],
+        "start_time": "316.2",
+        "end_time": "316.35"
+      },
+      {
+        "id": 258,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.749",
+            "content": "呢"
+          }
+        ],
+        "start_time": "323.88",
+        "end_time": "324.2"
       }
     ],
     "audio_segments": [
       {
         "id": 0,
-        "transcript": "最近寒いね。",
-        "start_time": "0.379",
-        "end_time": "2.19",
+        "transcript": "唉,傅姑娘,别介意啊,少爷身子不好,婚事不宜太过招摇。",
+        "start_time": "73.94",
+        "end_time": "80.949",
         "items": [
           0,
           1,
-          2
-        ]
-      },
-      {
-        "id": 1,
-        "transcript": "うん、めちゃくちゃ寒いね。寒くなるとこたつに入りたくなるよね。",
-        "start_time": "2.73",
-        "end_time": "9.35",
-        "items": [
+          2,
           3,
           4,
           5,
@@ -1167,21 +3112,21 @@
         ]
       },
       {
-        "id": 2,
-        "transcript": "こたつ?",
-        "start_time": "9.93",
-        "end_time": "10.97",
+        "id": 1,
+        "transcript": "嗯",
+        "start_time": "85.36",
+        "end_time": "85.569",
         "items": [
-          17,
-          18
+          17
         ]
       },
       {
-        "id": 3,
-        "transcript": "うん。こたつは布団が付いたテーブルのことだよ。",
-        "start_time": "11.539",
-        "end_time": "16.729",
+        "id": 2,
+        "transcript": "哎呦,你家富儿姑娘若许配,顶多是小四叔叔,俺家可是城中数一数二的富裕啊,要不是这八字对上了,哪能看上你家富姑娘。",
+        "start_time": "91.199",
+        "end_time": "104.41",
         "items": [
+          18,
           19,
           20,
           21,
@@ -1193,28 +3138,12 @@
           27,
           28,
           29,
-          30
-        ]
-      },
-      {
-        "id": 4,
-        "transcript": "へえ、そうなんだ。",
-        "start_time": "17.709",
-        "end_time": "19.299",
-        "items": [
+          30,
           31,
           32,
           33,
           34,
-          35
-        ]
-      },
-      {
-        "id": 5,
-        "transcript": "下にヒーターが付いてるから、とってもあったかいの。",
-        "start_time": "19.959",
-        "end_time": "24.93",
-        "items": [
+          35,
           36,
           37,
           38,
@@ -1224,32 +3153,24 @@
           42,
           43,
           44,
-          45
-        ]
-      },
-      {
-        "id": 6,
-        "transcript": "えー、すごいね。",
-        "start_time": "25.87",
-        "end_time": "27.42",
-        "items": [
+          45,
           46,
           47,
-          48
-        ]
-      },
-      {
-        "id": 7,
-        "transcript": "私のおばあちゃんの家にあるから、今度試してみる。",
-        "start_time": "28.03",
-        "end_time": "33.169",
-        "items": [
+          48,
           49,
           50,
           51,
           52,
           53,
-          54,
+          54
+        ]
+      },
+      {
+        "id": 3,
+        "transcript": "可是我听说安少爷哎呦安少爷身子是差了点实话跟你说了吧,这一会儿安家急着给安少爷娶亲其实是想冲冲喜万一这安少爷去了,富儿姑娘也是衣食无忧的呀若因缘富儿过得不好,我便是害了他哎,你这做姑娘",
+        "start_time": "105.72",
+        "end_time": "130.699",
+        "items": [
           55,
           56,
           57,
@@ -1257,15 +3178,7 @@
           59,
           60,
           61,
-          62
-        ]
-      },
-      {
-        "id": 8,
-        "transcript": "いいの?試してみたい。うわあ、すっごい気持ちいい。でしょう。はい、これ食べて。え、みかん?うん。こたつと言ったら、やっぱりみかんでしょ。",
-        "start_time": "33.799",
-        "end_time": "50.34",
-        "items": [
+          62,
           63,
           64,
           65,
@@ -1292,35 +3205,336 @@
           86,
           87,
           88,
-          89
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114
+        ]
+      },
+      {
+        "id": 4,
+        "transcript": "哎呦,傅姑娘,这可是一门好心事啊,富尔,慎重。",
+        "start_time": "137.589",
+        "end_time": "145.24",
+        "items": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130
+        ]
+      },
+      {
+        "id": 5,
+        "transcript": "陆姑娘,我愿意的。",
+        "start_time": "147.46",
+        "end_time": "151.72",
+        "items": [
+          131,
+          132,
+          133,
+          134,
+          135
+        ]
+      },
+      {
+        "id": 6,
+        "transcript": "婚事那么清了也就罢了,您知道男少爷是个药罐子,你还眼巴巴的嫁过去做什么?",
+        "start_time": "170.289",
+        "end_time": "176.669",
+        "items": [
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160
+        ]
+      },
+      {
+        "id": 7,
+        "transcript": "若不是时,则会知道我一心想要寻找的那个人。",
+        "start_time": "180.0",
+        "end_time": "185.72",
+        "items": [
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175
+        ]
+      },
+      {
+        "id": 8,
+        "transcript": "是否也在等我。",
+        "start_time": "186.25",
+        "end_time": "188.789",
+        "items": [
+          176,
+          177,
+          178,
+          179,
+          180
         ]
       },
       {
         "id": 9,
-        "transcript": "こたつ。",
-        "start_time": "51.72",
-        "end_time": "53.009",
+        "transcript": "说了",
+        "start_time": "214.449",
+        "end_time": "215.46",
         "items": [
-          90
+          181,
+          182
         ]
       },
       {
         "id": 10,
-        "transcript": "こたつ、みかん。",
-        "start_time": "53.65",
-        "end_time": "56.299",
+        "transcript": "你的名字很好听,想来应该是人如其名吧。",
+        "start_time": "218.919",
+        "end_time": "223.559",
         "items": [
-          91,
-          92
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
         ]
       },
       {
         "id": 11,
-        "transcript": "みかん、",
-        "start_time": "57.159",
-        "end_time": "58.08",
+        "transcript": "安少年",
+        "start_time": "226.91",
+        "end_time": "227.91",
         "items": [
-          93
+          195,
+          196
+        ]
+      },
+      {
+        "id": 12,
+        "transcript": "你若疑惑我的模样,不是应该掀了红盖头瞧瞧,说是长得外瓜里枣,赶紧将我退回娘家去。",
+        "start_time": "229.509",
+        "end_time": "237.889",
+        "items": [
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223
+        ]
+      },
+      {
+        "id": 13,
+        "transcript": "对不起,我可能没有办法看到了。",
+        "start_time": "240.639",
+        "end_time": "244.6",
+        "items": [
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232
+        ]
+      },
+      {
+        "id": 14,
+        "transcript": "等我和眼中东方新春留下的",
+        "start_time": "275.339",
+        "end_time": "278.359",
+        "items": [
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240
+        ]
+      },
+      {
+        "id": 15,
+        "transcript": "我听到",
+        "start_time": "282.17",
+        "end_time": "282.97",
+        "items": [
+          241,
+          242,
+          243
+        ]
+      },
+      {
+        "id": 16,
+        "transcript": "你就晚上呢?",
+        "start_time": "283.67",
+        "end_time": "284.989",
+        "items": [
+          244,
+          245,
+          246,
+          247,
+          248
+        ]
+      },
+      {
+        "id": 17,
+        "transcript": "然后网路上的",
+        "start_time": "286.95",
+        "end_time": "288.179",
+        "items": [
+          249,
+          250,
+          251
+        ]
+      },
+      {
+        "id": 18,
+        "transcript": "像花",
+        "start_time": "291.149",
+        "end_time": "291.85",
+        "items": [
+          252,
+          253
+        ]
+      },
+      {
+        "id": 19,
+        "transcript": "现在",
+        "start_time": "292.989",
+        "end_time": "293.649",
+        "items": [
+          254
+        ]
+      },
+      {
+        "id": 20,
+        "transcript": "等等",
+        "start_time": "295.48",
+        "end_time": "296.179",
+        "items": [
+          255
+        ]
+      },
+      {
+        "id": 21,
+        "transcript": "节目",
+        "start_time": "302.299",
+        "end_time": "302.48",
+        "items": [
+          256
+        ]
+      },
+      {
+        "id": 22,
+        "transcript": "我们",
+        "start_time": "315.959",
+        "end_time": "316.63",
+        "items": [
+          257
+        ]
+      },
+      {
+        "id": 23,
+        "transcript": "呢",
+        "start_time": "323.82",
+        "end_time": "324.23",
+        "items": [
+          258
         ]
       }
     ]

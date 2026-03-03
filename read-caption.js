@@ -11,10 +11,10 @@ ffmpeg.setFfmpegPath(ffmpegPath);
 const VIDEO_INPUT = "video.mp4";
 const TRANSCRIPT_FILE = "transcript.json";
 const OUTPUT_VIDEO = "captioned.mp4";
-const REGION = "<AWS_REGION>"; // your bucket region
+const REGION = "ap-southeast-1"; // your bucket region
 
-const ACCESS_KEY = "<ACESS_KEY>";
-const SECRET_KEY = "<SECRET_KEY>";
+const ACCESS_KEY = "<AWS_KEY>";
+const SECRET_KEY = "<AWS_SECRET_KEY>";
 
 const translate = new TranslateClient({
   region: REGION,
@@ -33,7 +33,7 @@ function secondsToSrtTime(sec) {
   return `${hh}:${mm}:${ss},${ms}`;
 }
 
-async function generateSrt(transcriptData) {
+async function generateSrt(transcriptData, detectedLanguage) {
   const items = transcriptData.results.items;
   let srt = "";
   let index = 1;
@@ -62,7 +62,7 @@ async function generateSrt(transcriptData) {
         const translation = await translate.send(
           new TranslateTextCommand({
             Text: originalText,
-            SourceLanguageCode: "ja",
+            SourceLanguageCode: detectedLanguage,
             TargetLanguageCode: "en",
           }),
         );
@@ -87,9 +87,10 @@ async function render() {
     const transcriptData = JSON.parse(
       fs.readFileSync(TRANSCRIPT_FILE, "utf-8"),
     );
-
+    const detectedLanguage = transcriptData.results.language_code || "ja";
+    console.log("Detected language:", detectedLanguage);
     console.log("Generating subtitles.srt...");
-    const srtContent = await generateSrt(transcriptData);
+    const srtContent = await generateSrt(transcriptData, detectedLanguage);
     fs.writeFileSync("subtitles.srt", srtContent);
 
     console.log("Rendering captioned video...");
